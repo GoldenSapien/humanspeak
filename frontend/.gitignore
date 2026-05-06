@@ -1,0 +1,10 @@
+app/
+  globals.css
+  layout.tsx
+  page.tsx
+components/
+  shapes.tsx
+next.config.mjs
+package.json
+tailwind.config.ts
+tsconfig.json
